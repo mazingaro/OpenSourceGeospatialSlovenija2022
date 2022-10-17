@@ -1,11 +1,11 @@
 # OpenSourceGeospatialSlovenija2022
 
-Open Source Geospatial Slovenija
+Open Source Geospatial Slovenija 2022
 
+13. oktober 2022 ob 8.30 uri
 Gozdarski inštitut Slovenije
 Večna pot 2, 1000 Ljubljana
 
-13. oktober 2022 ob 8.30 uri
 Program dogodka
 
 8.30  Uvodni pozdrav
