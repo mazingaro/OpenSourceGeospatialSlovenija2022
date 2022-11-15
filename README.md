@@ -1,4 +1,6 @@
 # OpenSourceGeospatialSlovenija2022
+posnetek dogodka:
+https://www.youtube.com/watch?v=tllc7EAz01c
 
 Open Source Geospatial Slovenija 2022
 
