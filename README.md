@@ -1,4 +1,5 @@
 # OpenSourceGeospatialSlovenija2022
+Urednika: Tomaž Šturm in Alen Mangafić
 posnetek dogodka:
 https://www.youtube.com/watch?v=tllc7EAz01c
 
